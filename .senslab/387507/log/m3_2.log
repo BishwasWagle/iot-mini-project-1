@@ -1,0 +1,28 @@
+2023-12-10 20:01:05,737 :: INFO :: Start experiment: iot2023oulu30-387507
+2023-12-10 20:01:05,741 :: INFO :: Control node : Starting of control node serial interface
+2023-12-10 20:01:05,744 :: INFO :: Control node : reset
+2023-12-10 20:01:05,747 :: INFO :: Reset Control Node
+2023-12-10 20:01:08,539 :: INFO :: Control node : start power of open node
+2023-12-10 20:01:08,557 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-12-10 20:01:11,571 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-10 20:01:11,576 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpvp5xklje--593e062fdfdb6c6644e8fba9d0f6e3ae_temperature_sensor.elf
+2023-12-10 20:01:14,178 :: INFO :: Control node : Start experiment
+2023-12-10 20:01:14,236 :: INFO :: Control Node set time delay: 2966 us
+2023-12-10 20:01:14,269 :: INFO :: Control node : profile configuration
+2023-12-10 20:01:14,283 :: INFO :: Configure profile on Control Node
+2023-12-10 20:01:14,338 :: INFO :: Start experiment succeeded
+2023-12-10 20:02:13,799 :: INFO :: Gateway Manager : Stop experiment
+2023-12-10 20:02:13,804 :: INFO :: Stop experiment
+2023-12-10 20:02:13,808 :: INFO :: Control node : stop of the experiment
+2023-12-10 20:02:13,813 :: INFO :: Control node : profile configuration
+2023-12-10 20:02:13,816 :: INFO :: Configure profile on Control Node
+2023-12-10 20:02:13,864 :: INFO :: Control node : start power of open node
+2023-12-10 20:02:13,896 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-12-10 20:02:16,910 :: INFO :: openocd node debugger stop
+2023-12-10 20:02:17,531 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-10 20:02:17,534 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-12-10 20:02:19,678 :: INFO :: Control node : Stop control node serial interface
+2023-12-10 20:02:19,683 :: INFO :: Control node : stop power of open node
+2023-12-10 20:02:19,724 :: INFO :: Control node : reset
+2023-12-10 20:02:19,727 :: INFO :: Reset Control Node
+2023-12-10 20:02:22,463 :: INFO :: Stop experiment succeeded

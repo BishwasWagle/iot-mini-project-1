@@ -1,0 +1,28 @@
+2023-12-10 20:04:43,110 :: INFO :: Start experiment: iot2023oulu30-387509
+2023-12-10 20:04:43,114 :: INFO :: Control node : Starting of control node serial interface
+2023-12-10 20:04:43,117 :: INFO :: Control node : reset
+2023-12-10 20:04:43,120 :: INFO :: Reset Control Node
+2023-12-10 20:04:45,920 :: INFO :: Control node : start power of open node
+2023-12-10 20:04:45,937 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-12-10 20:04:48,953 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-10 20:04:48,959 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpfsbqj73z--593e062fdfdb6c6644e8fba9d0f6e3ae_temperature_sensor.elf
+2023-12-10 20:04:51,560 :: INFO :: Control node : Start experiment
+2023-12-10 20:04:51,617 :: INFO :: Control Node set time delay: 4724 us
+2023-12-10 20:04:51,649 :: INFO :: Control node : profile configuration
+2023-12-10 20:04:51,663 :: INFO :: Configure profile on Control Node
+2023-12-10 20:04:51,718 :: INFO :: Start experiment succeeded
+2023-12-10 22:04:56,004 :: INFO :: Gateway Manager : Stop experiment
+2023-12-10 22:04:56,009 :: INFO :: Stop experiment
+2023-12-10 22:04:56,013 :: INFO :: Control node : stop of the experiment
+2023-12-10 22:04:56,018 :: INFO :: Control node : profile configuration
+2023-12-10 22:04:56,021 :: INFO :: Configure profile on Control Node
+2023-12-10 22:04:56,072 :: INFO :: Control node : start power of open node
+2023-12-10 22:04:56,104 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-12-10 22:04:59,118 :: INFO :: openocd node debugger stop
+2023-12-10 22:04:59,739 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-10 22:04:59,742 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-12-10 22:05:01,938 :: INFO :: Control node : Stop control node serial interface
+2023-12-10 22:05:01,943 :: INFO :: Control node : stop power of open node
+2023-12-10 22:05:01,981 :: INFO :: Control node : reset
+2023-12-10 22:05:01,984 :: INFO :: Reset Control Node
+2023-12-10 22:05:04,726 :: INFO :: Stop experiment succeeded

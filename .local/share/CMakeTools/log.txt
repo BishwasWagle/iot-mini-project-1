@@ -1,0 +1,121 @@
+2023-12-10T10:41:33.855Z [info] [proc] Executing command: cmake --version
+2023-12-10T10:41:33.962Z [info] [proc] Executing command: cmake -E capabilities
+2023-12-10T10:41:34.559Z [debug] [main] Safe constructing new CMakeProject instance
+2023-12-10T10:41:34.565Z [debug] [variant] Constructing VariantManager
+2023-12-10T10:41:34.570Z [debug] [main] Constructing new CMakeProject instance
+2023-12-10T10:41:34.573Z [debug] [main] Starting CMake Tools second-phase init
+2023-12-10T10:41:35.194Z [info] [variant] Loaded new set of variants
+2023-12-10T10:41:35.234Z [debug] [kit] Reading kits file /senslab/users/iot2023oulu30/.local/share/CMakeTools/cmake-tools-kits.json
+2023-12-10T10:41:35.299Z [info] [kit] Successfully loaded 2 kits from /senslab/users/iot2023oulu30/.local/share/CMakeTools/cmake-tools-kits.json
+2023-12-10T10:41:35.377Z [debug] [kit] Not reading non-existent kits file: /senslab/users/iot2023oulu30/.vscode/cmake-kits.json
+2023-12-10T10:41:35.413Z [debug] [main] CMakeProject instance initialization complete.
+2023-12-10T10:42:23.082Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Reloading variants file /senslab/users/iot2023oulu30/.iot-lab Error: EISDIR: illegal operation on a directory, read {}
+2023-12-10T10:42:23.169Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Reloading variants file /senslab/users/iot2023oulu30/A8 Error: EISDIR: illegal operation on a directory, read {}
+2023-12-10T10:57:34.672Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T15:03:41.676Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T15:14:43.578Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T15:29:34.990Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T15:53:44.711Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T15:54:14.445Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T15:57:03.790Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T15:57:59.792Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T16:26:38.134Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T16:27:04.771Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T16:36:14.908Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T16:50:51.462Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T16:53:06.822Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T16:54:04.007Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:11:20.921Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:13:08.875Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:16:36.672Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:16:56.371Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:17:00.982Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:17:12.446Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:19:25.186Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:19:39.739Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:26:21.223Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:26:49.507Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:28:58.399Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:29:07.295Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:29:14.808Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:30:10.902Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:30:50.801Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:35:58.105Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:36:08.744Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:37:46.572Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:37:58.660Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T17:39:17.383Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T18:01:43.869Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T18:04:31.469Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T18:44:15.018Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T18:48:25.527Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T19:09:58.470Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T19:11:04.519Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T19:13:18.455Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T19:17:10.768Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T20:26:02.639Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T20:26:34.819Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T20:26:54.956Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T20:27:31.300Z [debug] [main] Not starting CMake driver: no kit selected
+2023-12-10T20:46:45.401Z [debug] [main] Not starting CMake driver: no kit selected
+lected
+2023-11-23T20:43:40.001Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-23T20:43:50.085Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-23T21:05:45.866Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-23T21:23:24.033Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-23T21:23:50.622Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-23T21:24:44.154Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-24T00:36:34.845Z [debug] [extension] Deactivate CMakeTools
+1-22T11:15:41.220Z [info] [proc] Executing command: /bin/x86_64-linux-gnu-gcc-8 -v
+2023-11-22T11:15:41.277Z [debug] [kit] Detected GCC compiler: /opt/gcc-arm-none-eabi-4_9-2015q1/bin/arm-none-eabi-gcc-4.9.3
+2023-11-22T11:15:41.281Z [debug] [kit] Detected GCC compiler: /opt/gcc-arm-none-eabi-4_9-2015q1/bin/arm-none-eabi-gcc
+2023-11-22T11:15:41.292Z [debug] [kit] Detected GCC compiler: /bin/x86_64-linux-gnu-gcc-8
+2023-11-22T11:15:41.294Z [debug] [kit] Detected GCC compiler: /bin/x86_64-linux-gnu-gcc
+2023-11-22T11:15:41.296Z [debug] [kit] Detected GCC compiler: /bin/gcc-8
+2023-11-22T11:15:41.297Z [debug] [kit] Detected GCC compiler: /bin/gcc
+2023-11-22T11:15:41.299Z [debug] [kit] Detected GCC compiler: /bin/c99-gcc
+2023-11-22T11:15:41.301Z [debug] [kit] Detected GCC compiler: /bin/c89-gcc
+2023-11-22T11:15:41.302Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-linux-gnu-gcc-8
+2023-11-22T11:15:41.304Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-linux-gnu-gcc
+2023-11-22T11:15:41.306Z [debug] [kit] Detected GCC compiler: /usr/bin/gcc-8
+2023-11-22T11:15:41.307Z [debug] [kit] Detected GCC compiler: /usr/bin/gcc
+2023-11-22T11:15:41.309Z [debug] [kit] Detected GCC compiler: /usr/bin/c99-gcc
+2023-11-22T11:15:41.310Z [debug] [kit] Detected GCC compiler: /usr/bin/c89-gcc
+2023-11-22T11:15:41.311Z [debug] [kit] Testing GCC binary: /opt/gcc-arm-none-eabi-4_9-2015q1/bin/arm-none-eabi-gcc
+2023-11-22T11:15:41.312Z [info] [proc] Executing command: /opt/gcc-arm-none-eabi-4_9-2015q1/bin/arm-none-eabi-gcc -v
+2023-11-22T11:15:41.341Z [debug] [kit] Testing GCC binary: /bin/c99-gcc
+2023-11-22T11:15:41.342Z [info] [proc] Executing command: /bin/c99-gcc -v
+2023-11-22T11:15:41.366Z [debug] [kit] Testing GCC binary: /bin/c89-gcc
+2023-11-22T11:15:41.367Z [info] [proc] Executing command: /bin/c89-gcc -v
+2023-11-22T11:15:41.390Z [debug] [kit] Testing GCC binary: /usr/bin/c99-gcc
+2023-11-22T11:15:41.392Z [info] [proc] Executing command: /usr/bin/c99-gcc -v
+2023-11-22T11:15:41.408Z [debug] [kit] Testing GCC binary: /usr/bin/c89-gcc
+2023-11-22T11:15:41.409Z [info] [proc] Executing command: /usr/bin/c89-gcc -v
+2023-11-22T11:15:41.442Z [debug] [kit] Detected GCC compiler: /opt/gcc-arm-none-eabi-4_9-2015q1/bin/arm-none-eabi-gcc
+2023-11-22T11:15:41.445Z [debug] [kit] Found 2 kits in directory /opt/gcc-arm-none-eabi-4_9-2015q1/bin
+2023-11-22T11:15:41.450Z [debug] [kit] Detected GCC compiler: /usr/bin/c89-gcc
+2023-11-22T11:15:41.452Z [debug] [kit] Detected GCC compiler: /usr/bin/c99-gcc
+2023-11-22T11:15:41.456Z [debug] [kit] Detected GCC compiler: /bin/c89-gcc
+2023-11-22T11:15:41.458Z [debug] [kit] Detected GCC compiler: /bin/c99-gcc
+2023-11-22T11:15:41.460Z [debug] [kit] Found 6 kits in directory /usr/bin
+2023-11-22T11:15:41.461Z [debug] [kit] Found 6 kits in directory /bin
+2023-11-22T11:15:41.462Z [info] [kit] Found Kit (trusted): GCC 4.9.3 arm-none-eabi
+2023-11-22T11:15:41.462Z [info] [kit] Found Kit (trusted): GCC 4.9.3 arm-none-eabi
+2023-11-22T11:15:41.463Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.463Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.463Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.463Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.463Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.463Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.464Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.464Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.464Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.464Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.465Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.465Z [info] [kit] Found Kit (trusted): GCC 8.3.0 x86_64-linux-gnu
+2023-11-22T11:15:41.468Z [debug] [kitsController] Saving kits to /senslab/users/iot2023oulu30/.local/share/CMakeTools/cmake-tools-kits.json
+2023-11-22T11:15:41.468Z [debug] [kitsController] Saving new kits to /senslab/users/iot2023oulu30/.local/share/CMakeTools/cmake-tools-kits.json
+2023-11-22T12:31:53.440Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-22T12:40:38.997Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-22T12:41:25.841Z [debug] [main] Not starting CMake driver: no kit selected
+2023-11-22T14:07:07.898Z [debug] [extension] Deactivate CMakeTools

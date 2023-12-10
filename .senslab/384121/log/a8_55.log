@@ -1,0 +1,24 @@
+2023-11-18 11:59:22,773 :: INFO :: Start experiment: iot2023oulu30-384121
+2023-11-18 11:59:22,777 :: INFO :: Control node : Starting of control node serial interface
+2023-11-18 11:59:22,780 :: INFO :: Control node : reset
+2023-11-18 11:59:22,783 :: INFO :: Reset Control Node
+2023-11-18 11:59:25,567 :: INFO :: Control node : start power of open node
+2023-11-18 11:59:25,586 :: INFO :: Node A8 : setup of a8 node
+2023-11-18 11:59:26,326 :: INFO :: Control node : Start experiment
+2023-11-18 11:59:26,390 :: INFO :: Control Node set time delay: 7179 us
+2023-11-18 11:59:26,418 :: INFO :: Control node : profile configuration
+2023-11-18 11:59:26,421 :: INFO :: Configure profile on Control Node
+2023-11-18 11:59:26,486 :: INFO :: Start experiment succeeded
+2023-11-18 12:03:19,959 :: INFO :: Gateway Manager : Stop experiment
+2023-11-18 12:03:19,964 :: INFO :: Stop experiment
+2023-11-18 12:03:19,968 :: INFO :: Control node : stop of the experiment
+2023-11-18 12:03:19,972 :: INFO :: Control node : profile configuration
+2023-11-18 12:03:19,976 :: INFO :: Configure profile on Control Node
+2023-11-18 12:03:20,030 :: INFO :: Control node : start power of open node
+2023-11-18 12:03:20,062 :: INFO :: Node A8 : teardown of a8 node
+2023-11-18 12:03:21,381 :: ERROR :: Boot A8 failed in time: 233s
+2023-11-18 12:03:21,677 :: INFO :: Control node : Stop control node serial interface
+2023-11-18 12:03:21,680 :: INFO :: Control node : stop power of open node
+2023-11-18 12:03:21,714 :: INFO :: Control node : reset
+2023-11-18 12:03:21,718 :: INFO :: Reset Control Node
+2023-11-18 12:03:24,458 :: INFO :: Stop experiment succeeded

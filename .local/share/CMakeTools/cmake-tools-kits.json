@@ -1,0 +1,18 @@
+[
+  {
+    "name": "GCC 4.9.3 arm-none-eabi",
+    "compilers": {
+      "C": "/opt/gcc-arm-none-eabi-4_9-2015q1/bin/arm-none-eabi-gcc",
+      "CXX": "/opt/gcc-arm-none-eabi-4_9-2015q1/bin/arm-none-eabi-g++"
+    },
+    "isTrusted": true
+  },
+  {
+    "name": "GCC 8.3.0 x86_64-linux-gnu",
+    "compilers": {
+      "C": "/usr/bin/gcc",
+      "CXX": "/usr/bin/g++"
+    },
+    "isTrusted": true
+  }
+]

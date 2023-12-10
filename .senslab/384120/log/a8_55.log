@@ -1,0 +1,30 @@
+2023-11-18 11:55:22,022 :: INFO :: Start experiment: iot2023oulu30-384120
+2023-11-18 11:55:22,026 :: INFO :: Control node : Starting of control node serial interface
+2023-11-18 11:55:22,029 :: INFO :: Control node : reset
+2023-11-18 11:55:22,032 :: INFO :: Reset Control Node
+2023-11-18 11:55:24,822 :: INFO :: Control node : start power of open node
+2023-11-18 11:55:24,840 :: INFO :: Node A8 : setup of a8 node
+2023-11-18 11:55:25,681 :: INFO :: Control node : Start experiment
+2023-11-18 11:55:25,752 :: INFO :: Control Node set time delay: 9397 us
+2023-11-18 11:55:25,784 :: INFO :: Control node : profile configuration
+2023-11-18 11:55:25,787 :: INFO :: Configure profile on Control Node
+2023-11-18 11:55:25,837 :: INFO :: Start experiment succeeded
+2023-11-18 11:56:30,259 :: INFO :: Gateway Manager : Start open node power
+2023-11-18 11:56:30,264 :: INFO :: Open power start
+2023-11-18 11:56:30,267 :: INFO :: Control node : start power of open node
+2023-11-18 11:58:18,574 :: INFO :: Update experiment profile
+2023-11-18 11:58:18,579 :: INFO :: Control node : profile configuration
+2023-11-18 11:58:18,583 :: INFO :: Configure profile on Control Node
+2023-11-18 11:58:36,009 :: INFO :: Gateway Manager : Stop experiment
+2023-11-18 11:58:36,012 :: INFO :: Stop experiment
+2023-11-18 11:58:36,015 :: INFO :: Control node : stop of the experiment
+2023-11-18 11:58:36,020 :: INFO :: Control node : profile configuration
+2023-11-18 11:58:36,023 :: INFO :: Configure profile on Control Node
+2023-11-18 11:58:36,073 :: INFO :: Control node : start power of open node
+2023-11-18 11:58:36,104 :: INFO :: Node A8 : teardown of a8 node
+2023-11-18 11:58:37,420 :: ERROR :: Boot A8 failed in time: 190s
+2023-11-18 11:58:37,719 :: INFO :: Control node : Stop control node serial interface
+2023-11-18 11:58:37,722 :: INFO :: Control node : stop power of open node
+2023-11-18 11:58:37,758 :: INFO :: Control node : reset
+2023-11-18 11:58:37,762 :: INFO :: Reset Control Node
+2023-11-18 11:58:40,689 :: INFO :: Stop experiment succeeded

@@ -1,0 +1,28 @@
+2023-12-10 20:17:21,815 :: INFO :: Start experiment: iot2023oulu30-387515
+2023-12-10 20:17:21,819 :: INFO :: Control node : Starting of control node serial interface
+2023-12-10 20:17:21,822 :: INFO :: Control node : reset
+2023-12-10 20:17:21,826 :: INFO :: Reset Control Node
+2023-12-10 20:17:24,621 :: INFO :: Control node : start power of open node
+2023-12-10 20:17:24,639 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-12-10 20:17:27,654 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-10 20:17:27,659 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpgnr96i06--1595b4bdf776039ba5c9e703a7582100_gnrc_border_router.elf
+2023-12-10 20:17:33,892 :: INFO :: Control node : Start experiment
+2023-12-10 20:17:33,966 :: INFO :: Control Node set time delay: 7733 us
+2023-12-10 20:17:33,999 :: INFO :: Control node : profile configuration
+2023-12-10 20:17:34,002 :: INFO :: Configure profile on Control Node
+2023-12-10 20:17:34,068 :: INFO :: Start experiment succeeded
+2023-12-10 21:17:38,417 :: INFO :: Gateway Manager : Stop experiment
+2023-12-10 21:17:38,423 :: INFO :: Stop experiment
+2023-12-10 21:17:38,427 :: INFO :: Control node : stop of the experiment
+2023-12-10 21:17:38,432 :: INFO :: Control node : profile configuration
+2023-12-10 21:17:38,435 :: INFO :: Configure profile on Control Node
+2023-12-10 21:17:38,490 :: INFO :: Control node : start power of open node
+2023-12-10 21:17:38,522 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-12-10 21:17:41,537 :: INFO :: openocd node debugger stop
+2023-12-10 21:17:42,158 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-10 21:17:42,161 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-12-10 21:17:44,306 :: INFO :: Control node : Stop control node serial interface
+2023-12-10 21:17:44,311 :: INFO :: Control node : stop power of open node
+2023-12-10 21:17:44,350 :: INFO :: Control node : reset
+2023-12-10 21:17:44,354 :: INFO :: Reset Control Node
+2023-12-10 21:17:47,090 :: INFO :: Stop experiment succeeded

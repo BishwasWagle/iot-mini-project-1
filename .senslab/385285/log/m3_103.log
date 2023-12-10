@@ -1,0 +1,48 @@
+2023-11-23 19:24:54,798 :: INFO :: Start experiment: iot2023oulu30-385285
+2023-11-23 19:24:54,802 :: INFO :: Control node : Starting of control node serial interface
+2023-11-23 19:24:54,805 :: INFO :: Control node : reset
+2023-11-23 19:24:54,808 :: INFO :: Reset Control Node
+2023-11-23 19:24:57,609 :: INFO :: Control node : start power of open node
+2023-11-23 19:24:57,626 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-11-23 19:25:00,641 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-23 19:25:00,646 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-11-23 19:25:02,795 :: INFO :: Control node : Start experiment
+2023-11-23 19:25:02,873 :: INFO :: Control Node set time delay: 16904 us
+2023-11-23 19:25:02,903 :: INFO :: Control node : profile configuration
+2023-11-23 19:25:02,906 :: INFO :: Configure profile on Control Node
+2023-11-23 19:25:02,959 :: INFO :: Start experiment succeeded
+2023-11-23 19:27:15,516 :: INFO :: Gateway Manager : Flash of node
+2023-11-23 19:27:15,522 :: INFO :: Flash firmware on open node: /tmp/tmpv9ehht1q--firmware7683420907183899548-temperature_sensor.bin
+2023-11-23 19:27:15,525 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-23 19:27:15,528 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpv9ehht1q--firmware7683420907183899548-temperature_sensor.bin
+2023-11-23 19:29:33,867 :: INFO :: Gateway Manager : Flash of node
+2023-11-23 19:29:33,872 :: INFO :: Flash firmware on open node: /tmp/tmpnhm5glfq--firmware1971236504846569561-temperature_sensor.bin
+2023-11-23 19:29:33,876 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-23 19:29:33,879 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpnhm5glfq--firmware1971236504846569561-temperature_sensor.bin
+2023-11-23 19:31:19,751 :: INFO :: Gateway Manager : Flash of node
+2023-11-23 19:31:19,755 :: INFO :: Flash firmware on open node: /tmp/tmp61fia5yo--firmware1306410341494603449-temperature_sensor.bin
+2023-11-23 19:31:19,759 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-23 19:31:19,762 :: INFO :: Flash firmware on OpenOCD: /tmp/tmp61fia5yo--firmware1306410341494603449-temperature_sensor.bin
+2023-11-23 19:32:05,945 :: INFO :: Gateway Manager : Flash of node
+2023-11-23 19:32:05,949 :: INFO :: Flash firmware on open node: /tmp/tmpinjrs47o--firmware2819647502286953658-temperature_sensor.bin
+2023-11-23 19:32:05,952 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-23 19:32:05,956 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpinjrs47o--firmware2819647502286953658-temperature_sensor.bin
+2023-11-23 20:19:40,293 :: INFO :: Gateway Manager : Flash of node
+2023-11-23 20:19:40,300 :: INFO :: Flash firmware on open node: /tmp/tmp6tdlg4w2--firmware7534932008439957842-temperature_sensor.bin
+2023-11-23 20:19:40,303 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-23 20:19:40,306 :: INFO :: Flash firmware on OpenOCD: /tmp/tmp6tdlg4w2--firmware7534932008439957842-temperature_sensor.bin
+2023-11-23 20:21:49,523 :: INFO :: Gateway Manager : Stop experiment
+2023-11-23 20:21:49,528 :: INFO :: Stop experiment
+2023-11-23 20:21:49,532 :: INFO :: Control node : stop of the experiment
+2023-11-23 20:21:49,537 :: INFO :: Control node : profile configuration
+2023-11-23 20:21:49,540 :: INFO :: Configure profile on Control Node
+2023-11-23 20:21:49,587 :: INFO :: Control node : start power of open node
+2023-11-23 20:21:49,619 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-11-23 20:21:52,633 :: INFO :: openocd node debugger stop
+2023-11-23 20:21:53,254 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-23 20:21:53,257 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-11-23 20:21:55,403 :: INFO :: Control node : Stop control node serial interface
+2023-11-23 20:21:55,408 :: INFO :: Control node : stop power of open node
+2023-11-23 20:21:55,446 :: INFO :: Control node : reset
+2023-11-23 20:21:55,450 :: INFO :: Reset Control Node
+2023-11-23 20:21:58,192 :: INFO :: Stop experiment succeeded
